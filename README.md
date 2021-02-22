@@ -1,8 +1,9 @@
-# Discohook
+# Boopie Embed Maker
 
-An easy-to-use tool for building and sending Discord messages and embeds using webhooks.
+An easy-to-use tool for building and sending embeds with boopie!
+Live instance is available at <https://embed.boopie.me/>.
 
-Live instance is available at <https://discohook.org/>.
+This is a fork of [Discohook](https://github.com/discohook/site)
 
 ## Setup
 
